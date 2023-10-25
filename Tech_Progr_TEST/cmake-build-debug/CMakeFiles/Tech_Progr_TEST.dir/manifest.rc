@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/Workspace/Clion_Projects/Tech_Progr_TEST/cmake-build-debug/CMakeFiles/Tech_Progr_TEST.dir/embed.manifest"

@@ -1,0 +1,18 @@
+4
+3
+ Serpent
+ Long neck
+2
+ Knight Gael
+ Ultrasword crossbow
+ Stole the dark soul
+ The ringed city
+ STR 30 WIS 30 DUR 30
+1
+ Commander Shepard
+ Rifle
+ AIM 20 INT 16 STR 12
+1
+ Geralt of Rivia
+ Silver sword
+ STR 20 INT 20
